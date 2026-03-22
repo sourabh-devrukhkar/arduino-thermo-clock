@@ -1,2 +1,30 @@
-# arduino-thermo-clock
-Arduino-based smart thermal regulation system with sensor-driven control, real-time feedback, and automated response
+# 🌡️ Arduino Smart Thermal Regulation System
+
+This repository contains an Arduino-based smart thermal regulation system prototyped and simulated in **Tinkercad**. The project focuses on real-time temperature monitoring and automated response mechanisms to maintain specific environmental conditions.
+
+## 🚀 Project Overview
+The system acts as an intelligent thermostat. It continuously samples ambient temperature, displays real-time data on an LCD/Serial monitor, and triggers an automated response (like a cooling fan or heating element) when pre-defined thresholds are breached.
+
+## 🛠️ Tech Stack
+* **Platform:** Tinkercad (Virtual Prototyping)
+* **Microcontroller:** Arduino Uno R3
+* **Programming Language:** C++ (Arduino Wiring)
+* **Key Components:** * TMP36 Temperature Sensor
+    * LCD 16x2 Display (I2C/Parallel)
+    * DC Motor (Simulated Fan)
+    * RTC Module (for Clock functionality)
+    * Potentiometers & LEDs for feedback
+
+## 🧩 Key Features
+* **Sensor-Driven Control:** Uses precise analog-to-digital conversion to interpret temperature data.
+* **Real-Time Feedback:** Displays both current time and temperature simultaneously.
+* **Automated Regulation:** Implements hysteresis logic to prevent "chattering" (frequent on/off switching) of the actuator.
+* **Prototyping Ready:** Circuit design is fully tested in a simulation environment and ready for PCB implementation.
+
+## 🖼️ Simulation Gallery
+
+| Circuit Design (Tinkercad) | System in Action |
+| :---: | :---: |
+| ![Circuit](<img width="1518" height="762" alt="ThermoClock" src="https://github.com/user-attachments/assets/9d48c1a8-b36c-4832-9d89-d5661258f590" />
+)|
+
