@@ -1,6 +1,6 @@
 # 🌡️ Arduino Smart Thermal Regulation System
 
-This repository contains an Arduino-based smart thermal regulation system prototyped and simulated in **Tinkercad**. The project focuses on real-time temperature monitoring and automated response mechanisms to maintain specific environmental conditions.
+This is Arduino-based smart thermal regulation system prototyped and simulated in **Tinkercad**. The project focuses on real-time temperature monitoring and automated response mechanisms to maintain specific environmental conditions.
 
 ## 🚀 Project Overview
 The system acts as an intelligent thermostat. It continuously samples ambient temperature, displays real-time data on an LCD/Serial monitor, and triggers an automated response (like a cooling fan or heating element) when pre-defined thresholds are breached.
