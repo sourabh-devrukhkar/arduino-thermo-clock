@@ -25,7 +25,7 @@ The system acts as an intelligent thermostat. It continuously samples ambient te
 
  Circuit Design (Tinkercad) 
 | :---: | 
-<img width="1518" height="762" alt="ThermoClock" src="https://github.com/user-attachments/assets/9d48c1a8-b36c-4832-9d89-d5661258f590" />
+ ![IMG](Thermo_clock/ThermoClock.png) 
 
 > **Live Simulation:** [View and Run on Tinkercad](https://www.tinkercad.com/things/jICS4unwTMm-thermo-clock-?sharecode=2dXkuUk0Ebovbbu9fkB9iWQa-_l2R4tBc6zC2da8r9Q)
 
